@@ -3,7 +3,7 @@
 # Mi Version 1.0
 print("\n Bienvenido al Generador de Series Fibonacci \n\n")
 # Ingreso del Limite de la Serie
-Limite = int( imput( "Ingrese el Limite :"))
+Limite = int( input( "Ingrese el Limite :"))
 Elemento = 1
 Inicio = 0
 Paso = 1
